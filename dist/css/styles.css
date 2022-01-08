@@ -3239,6 +3239,17 @@ textarea.form-control-lg {
   border-color: #f8f9fa;
 }
 
+/* color */
+.btn-blue {
+  color: #fff;
+  background-color: #00a2fff8;
+  border-color: #00a2fff8;
+}
+
+.btn-blue-home {
+  color: #00a2fff8;
+}
+
 .btn-dark {
   color: #fff;
   background-color: #212529;
